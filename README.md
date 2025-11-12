@@ -2,9 +2,11 @@
 
 My implementation of the OAuth PKCE flow with a frontend SPA (ReactJS) and a backend API (NestJS)
 
-[Frontend SPA Client](https://github.com/TranPhat-28/my-blog-client)
+GitHub repository links:
 
-[Backend API Server](https://github.com/TranPhat-28/my-blog-api)
+- [Frontend SPA Client](https://github.com/TranPhat-28/my-blog-client)
+
+- [Backend API Server](https://github.com/TranPhat-28/my-blog-api)
 
 ## Sequence Diagram
 
